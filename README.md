@@ -50,13 +50,11 @@ A Java-based command-line application to manage movie screening schedules. It al
 **Test Case 4: Delete Movie**
 - Expected Output: `Movie Deleted.`
 
-## 🗂 Files Used:
+## Files Used:
 - `movies.txt`: Binary file used to store all movie objects.
 
 ## Submission Links
 
-🔗 GitHub Repository: [GitHub Link Here]
+ Presentation & Demo:
+- [Presentation Slides (Google Drive)](https://docs.google.com/presentation/d/12BRfpkM-heoDUWY-d5l5oS6qaVghPv9tB69C-s7NEQc/edit?usp=sharing)
 
-📽️ Presentation & Demo:
-- [Presentation Slides (Google Drive)](Your_Presentation_Link)
-- [Demo Video (Google Drive)](Your_Video_Link)
